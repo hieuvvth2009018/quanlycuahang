@@ -1,0 +1,6 @@
+C:\Users\pc\RiderProjects\QuảnLýCửaHàng\QuảnLýCửaHàng11\bin\Debug\QuảnLýCửaHàng11.exe
+C:\Users\pc\RiderProjects\QuảnLýCửaHàng\QuảnLýCửaHàng11\bin\Debug\QuảnLýCửaHàng11.pdb
+C:\Users\pc\RiderProjects\QuảnLýCửaHàng\QuảnLýCửaHàng11\obj\Debug\QuảnLýCửaHàng11.csprojAssemblyReference.cache
+C:\Users\pc\RiderProjects\QuảnLýCửaHàng\QuảnLýCửaHàng11\obj\Debug\QuảnLýCửaHàng11.csproj.CoreCompileInputs.cache
+C:\Users\pc\RiderProjects\QuảnLýCửaHàng\QuảnLýCửaHàng11\obj\Debug\QuảnLýCửaHàng11.exe
+C:\Users\pc\RiderProjects\QuảnLýCửaHàng\QuảnLýCửaHàng11\obj\Debug\QuảnLýCửaHàng11.pdb
